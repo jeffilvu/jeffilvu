@@ -15,19 +15,18 @@ Cursando Analise e Desenvolvimento de sistemas - Fatec Rubens Lara
 
 ### 🛠️ Tech Stack
 
-- **Programming Languages:** Python, JavaScript, Java, C, C#
+- **Programming Languages:** Python, Java, C, C#
 - **Frontend:** HTML, CSS
-- **Backend:** PHP, Node.js
-- **Database:** MySQL, PostgreSQL
+- **Database:** MySQL
 - **Tools:** Git, Docker, VS Code, Linux
 
 ---
 
 ### 📫 Contact
 
-- 📧 Email: [Seu email aqui]
-- 🔗 LinkedIn: [Seu perfil aqui]
-- 🚀 Portfolio: [Seu site aqui]
+- 📧 Email: jeffersonaraujodeb@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jefferson-ara%C3%BAjo-801957224
+
 
  
 ##
