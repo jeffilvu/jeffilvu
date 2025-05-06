@@ -24,7 +24,7 @@ Cursando Analise e Desenvolvimento de sistemas - Fatec Rubens Lara
 ### 📫 Contact
 
 - 📧 Email: jeffersonaraujodeb@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/jefferson-ara%C3%BAjo-801957224
+- 🔗 LinkedIn: https://www.linkedin.com/in/jefferson-araujodev
 
 
  
