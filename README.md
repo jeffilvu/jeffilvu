@@ -5,7 +5,7 @@ Cursando Analise e Desenvolvimento de sistemas - Fatec Rubens Lara
  
 ### 🛠️ Tech Stack
 
-- **Programming Languages:** Python, Java, C, C#
+- **Programming Languages:** Python, Java, C#
 - **Database:** MySQL, Oracle, Microsoft SQL Server, Postgres
 - **Tools:** Git, Docker, VS Code, Linux
 
